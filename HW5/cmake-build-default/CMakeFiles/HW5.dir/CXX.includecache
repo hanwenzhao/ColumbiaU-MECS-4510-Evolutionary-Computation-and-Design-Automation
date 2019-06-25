@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanwen/CLionProjects/HW5/main.cpp
+main.h
+/home/hanwen/CLionProjects/HW5/main.h
+
+/home/hanwen/CLionProjects/HW5/main.h
+iostream
+-
+GL/freeglut.h
+-
+GL/glut.h
+-
+vector
+-
+stdarg.h
+-
+fstream
+-
+omp.h
+/home/hanwen/CLionProjects/HW5/omp.h
+algorithm
+-
+math.h
+-
+cmath
+-
+numeric
+-
+random
+-
+queue
+-
+ctime
+-
+chrono
+-
+string
+-
+

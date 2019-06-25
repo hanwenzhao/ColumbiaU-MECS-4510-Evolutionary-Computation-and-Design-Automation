@@ -1,0 +1,8 @@
+/opt/clion-2018.2.6/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE= -G "CodeBlocks - Unix Makefiles" /home/hanwen/CLionProjects/HW5
+-- Found OpenGL: /usr/lib/x86_64-linux-gnu/libGL.so   
+-- Found GLUT: /usr/lib/x86_64-linux-gnu/libglut.so  
+-- Found OpenMP_CXX: -fopenmp (found version "4.0") 
+-- Found OpenMP: TRUE (found version "4.0")  
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/hanwen/CLionProjects/HW5/cmake-build-default

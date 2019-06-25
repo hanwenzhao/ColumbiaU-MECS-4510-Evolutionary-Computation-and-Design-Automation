@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC   -shared -Wl,-soname,libHW5.so -o libHW5.so CMakeFiles/HW5.dir/main.cpp.o 

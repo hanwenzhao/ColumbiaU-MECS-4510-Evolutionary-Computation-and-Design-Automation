@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/HW4_test.dir/main.cpp.o  -o HW4_test -Wl,-rpath,/home/hanwen/CLionProjects/HW5/cmake-build-debug /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so libHW4.so /usr/lib/gcc/x86_64-linux-gnu/5/libgomp.so -lpthread 

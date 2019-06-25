@@ -1,0 +1,4 @@
+/home/hanwen/CLionProjects/HW5/cmake-build-default/CMakeFiles/rebuild_cache.dir
+/home/hanwen/CLionProjects/HW5/cmake-build-default/CMakeFiles/edit_cache.dir
+/home/hanwen/CLionProjects/HW5/cmake-build-default/CMakeFiles/HW5_test.dir
+/home/hanwen/CLionProjects/HW5/cmake-build-default/CMakeFiles/HW5.dir

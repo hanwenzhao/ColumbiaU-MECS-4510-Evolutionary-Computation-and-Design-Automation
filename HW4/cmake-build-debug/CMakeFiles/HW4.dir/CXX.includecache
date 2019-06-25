@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/hanwen/Dropbox/MECS4510/HW4/main.cpp
+main.h
+/home/hanwen/Dropbox/MECS4510/HW4/main.h
+
+/home/hanwen/Dropbox/MECS4510/HW4/main.h
+iostream
+-
+GL/glut.h
+-
+cmath
+-
+ctime
+-
+vector
+-
+stdarg.h
+-
+numeric
+-
+fstream
+-
+omp.h
+/home/hanwen/Dropbox/MECS4510/HW4/omp.h
+

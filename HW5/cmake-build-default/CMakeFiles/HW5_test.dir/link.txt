@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/HW5_test.dir/main.cpp.o  -o HW5_test -Wl,-rpath,/home/hanwen/CLionProjects/HW5/cmake-build-default /usr/lib/x86_64-linux-gnu/libglut.so /usr/lib/x86_64-linux-gnu/libXmu.so /usr/lib/x86_64-linux-gnu/libXi.so /usr/lib/x86_64-linux-gnu/libGL.so /usr/lib/x86_64-linux-gnu/libGLU.so libHW5.so /usr/lib/gcc/x86_64-linux-gnu/5/libgomp.so -lpthread 
